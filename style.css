@@ -1,0 +1,32 @@
+.heading{
+    color:red;
+    font-size:20px;
+    font-family:Gill Sans;
+}
+.heading2{
+    font-size:19px;
+    font-family:Gill Sans;
+}
+.heading3{
+    font-size:19px;
+    font-family:Gill Sans;
+}
+.image{
+    width: 50px;
+    height:50px;
+}
+.test_image_and_result{
+    background-color:gray;
+    border-style:dotted;
+    margin-right:20px;
+    box-shadow:5px 5px 5px green;
+}
+
+
+.main_result{
+    background-color:rgb(197, 165, 228);
+    color:teal;
+    border-color:aqua;
+    border-style:solid;
+    border-radius:20px;
+}
